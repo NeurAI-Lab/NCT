@@ -1,4 +1,4 @@
-# Noisy Concurrent Training (ACT)
+# Noisy Concurrent Training (NCT)
 
 This is the official code for the WACV'21 Paper [Noisy Concurrent Training for Efficient Learning under Label Noise"](https://arxiv.org/abs/2009.08325) by 
 [Fahad Sarfraz](https://scholar.google.com/citations?user=Zhx_sM4AAAAJ&hl=en), [Elahe Arani](https://www.researchgate.net/profile/Elahe-Arani) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ)
