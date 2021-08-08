@@ -32,7 +32,7 @@ For details, please see the
 and [Presentation Video](https://www.youtube.com/watch?v=_N7J0G9mjAw&ab_channel=NeurAI) 
 
 
-###Cite Our Work
+### Cite Our Work
 If you find the code useful in your research, please consider citing our paper:
 
 <pre>
@@ -45,5 +45,5 @@ If you find the code useful in your research, please consider citing our paper:
 }
 </pre>
 
-###License
+### License
 This project is licensed under the terms of the MIT license.
