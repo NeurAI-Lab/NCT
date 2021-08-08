@@ -4,7 +4,8 @@ This is the official code for the WACV'21 Paper [Noisy Concurrent Training for E
 [Fahad Sarfraz](https://scholar.google.com/citations?user=Zhx_sM4AAAAJ&hl=en), [Elahe Arani](https://www.researchgate.net/profile/Elahe-Arani) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ)
 
 
-##Abstract
+## Abstract
+
 Deep neural networks (DNNs) fail to learn effectively under label noise and 
 have been shown to memorize random labels which affect their generalization 
 performance. We consider learning in isolation, using one-hot encoded labels 
